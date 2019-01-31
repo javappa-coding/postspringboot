@@ -1,0 +1,47 @@
+.container-fluid {
+	max-width: 1024px;
+	margin: 0 auto;
+}
+
+.font-title {
+	font-size: 1.5em;
+	font-weight: 600;
+}
+
+.tiled-style {
+	margin-top: 100px;
+	padding-left: 0px !important;
+	border: 1px solid gray;
+	box-shadow: 0 10px 16px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0
+		rgba(0, 0, 0, 0.19);
+}
+
+.vertical-box-divider {
+	height: 40px;
+}
+
+.vertical-box-divider-larger {
+	height: 60px;
+}
+
+.vertical-box-divider-large {
+	height: 80px;
+}
+
+.help-block-javappa {
+	text-align: center;
+	padding-bottom: 10px;
+}
+
+.javappa-logo {
+	min-width: 120px;
+	width: 160px;
+	height: auto;
+	padding-left: 7px;
+	padding-right: 7px;
+	padding-bottom: 2px;
+	margin-bottom: 7px;
+	border-right: 1px solid gray;
+	border-bottom: 1px solid gray;
+}
+
