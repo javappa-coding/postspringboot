@@ -33,6 +33,6 @@ public class InitService {
 			items.add(item);
 
 		}
-		itemRepository.save(items);
+		itemRepository.saveAll(items);
 	}
 }
